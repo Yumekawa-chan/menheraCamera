@@ -2,7 +2,7 @@ import discord
 import datetime
 import os
 
-TOKEN = 'MTA2MTMyODA4NTk1NTM4NzUxMw.GbOF8v.G_exgMmNavQ7BSv27UCYFtQSaxw6azzS7SGn_w'
+TOKEN = 'discordのbotのトークンを入力してね'
 
 Intents = discord.Intents.default()
 Intents.members = True
